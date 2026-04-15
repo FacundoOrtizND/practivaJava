@@ -1,0 +1,6 @@
+com\mycompany\main\Main.class
+com\mycompany\main\NotificadorSMS.class
+com\mycompany\main\Observer.class
+com\mycompany\main\Sujeto.class
+com\mycompany\main\CuentaBancaria.class
+com\mycompany\main\NotificadorEmail.class
